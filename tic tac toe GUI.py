@@ -1,3 +1,4 @@
+'''code for making a tic-tac-toe game in python'''
 from tkinter import *
 from tkinter import messagebox
 

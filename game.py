@@ -1,3 +1,4 @@
+'''tic-tac-toe game without gui'''
 board = ["-", "-", "-",
          "-", "-", "-",
          "-", "-", "-"]
